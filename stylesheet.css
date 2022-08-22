@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'ApDevaSiddham';
+    src: url('ApDevaSiddham.woff2') format('woff2'),
+        url('ApDevaSiddham.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ApDevaSanskrit';
+    src: url('ApDevaSanskrit.woff2') format('woff2'),
+        url('ApDevaSanskrit.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ApSiddham';
+    src: url('ApSiddham.woff2') format('woff2'),
+        url('ApSiddham.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
